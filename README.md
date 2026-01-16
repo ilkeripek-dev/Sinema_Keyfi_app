@@ -63,4 +63,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 Uygulamanın derlenmiş APK sürümünü `build/app/outputs/flutter-apk/app-release.apk` dizininde bulabilirsiniz veya release kısmından indirebilirsiniz.
 
 ---
-**Geliştirici:** [Senin Adın]
+**Geliştirici:** [İlker İpek]
